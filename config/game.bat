@@ -1,0 +1,1 @@
+ls_gamesvr.exe -c ls_gamesvr_1.ini
